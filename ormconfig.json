@@ -1,0 +1,6 @@
+{
+  "type": "postgres",
+  "url": "postgres://user:password@postgres:5432/db",
+  "synchronize": true,
+  "autoLoadEntities": true
+}
